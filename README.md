@@ -1,4 +1,4 @@
-<h1>Hi, I'm Earl! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a> <a href="www.linkedin.com/in/earl-moore-iv/"></a></h1>
+<h1>Hi, I'm Earl! <br/><a href="https://github.com/emoe97">Cybersecurity Professional</a> <a href="www.linkedin.com/in/earl-moore-iv/"></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ol>
