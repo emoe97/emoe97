@@ -2,11 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ol>
-<b>-[Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)</b>
-  <br></br>
-<b>-[Creating a Honeypot w/ Microsoft Azure](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)</b>
+<b>-[Creating a Honeypot w/ Microsoft Azure](https://github.com/emoe97/SIEM-Honeypot-Home-Lab)</b>
     <br></br>
-<b>-[Creating a Vulnerabilty Manager w/ Tenable Nessus](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)</b>
+<b>-[Creating a Vulnerabilty Manager w/ Tenable Nessus](https://github.com/emoe97/Nessus-Vulnerability-Home-Lab)</b>
 </ol>
 <h2>📺  Cybersecurity Project Videos</h2>
 
