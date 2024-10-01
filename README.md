@@ -1,6 +1,6 @@
-<h1>Hi, I'm Earl! <br/><a href="https://github.com/emoe97">Cybersecurity Professional</a> <a href="www.linkedin.com/in/earl-moore-iv/"></a></h1>
+<h1>Hi, I'm Earl! <br/><a href="https://github.com/emoe97">IT Professional</a> <a href="www.linkedin.com/in/earl-moore-iv/"></a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 <ol>
 <b>-[Creating a Honeypot w/ Microsoft Azure](https://github.com/emoe97/SIEM-Honeypot-Home-Lab)</b>
     <br></br>
