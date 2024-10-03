@@ -7,8 +7,8 @@
 <b>-[Creating a Vulnerabilty Manager w/ Tenable Nessus](https://github.com/emoe97/Nessus-Vulnerability-Home-Lab)</b>
     <br></br>
     <b>-[Build a Small Home Office Network](https://github.com/emoe97/build-a-small-office-network) </b>
-    <b></b>
-      <b>-[Active Directory Home Lab]()https://github.com/emoe97/ActiveDirectoryLab </b>
+    <br></br>
+      <b>-[Active Directory Home Lab](https://github.com/emoe97/ActiveDirectoryLab) </b>
 </ol>
 <h2>📺 Videos</h2>
 
