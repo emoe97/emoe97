@@ -1,6 +1,5 @@
 <h1>Hi, I'm Earl! <br/><a href="https://github.com/emoe97">IT Professional</a> <a href="www.linkedin.com/in/earl-moore-iv/"></a></h1>
-<br></br>
-<h2>Summary</h2>
+<h2>Introduction</h2>
 <h3>Passionate about Information Technology and Cybersecurity, I enjoy exploring innovative solutions to modern tech challenges. With a focus on securing systems and ensuring data integrity, I am constantly honing my skills in cybersecurity and IT infrastructure. My projects reflect my commitment to creating secure, efficient, and scalable solutions for the digital world.</h3>
 <h2>👨‍💻 Projects:</h2>
 <ol>
