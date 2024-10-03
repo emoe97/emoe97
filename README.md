@@ -13,8 +13,7 @@
 - [Active Directory Home Lab](https://youtu.be/s9Vu-0lQQLk)
 - [Creating a Honeypot w/ Microsoft Azure](https://youtu.be/nYCqmv3kXgY)
 - [Creating a Vulnerabilty Manager w/ Tenable Nessus](https://vimeo.com/830693294/799e61db7d?share=copy)
-- [Build a Small Home Office Network]
-  https://youtu.be/shg64y6xEC0)
+- [Build a Small Home Office Network](https://youtu.be/shg64y6xEC0)
 
 
 <!--
